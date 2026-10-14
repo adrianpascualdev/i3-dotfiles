@@ -5,8 +5,9 @@ Configuraciones personales para un escritorio **i3wm** con **Alacritty, Picom, P
 > **Compatibilidad:** el instalador reconoce estas familias de distribuciones, pero la disponibilidad de paquetes y el comportamiento de algunas configuraciones pueden variar según la versión, los repositorios y el hardware. No se garantiza que funcione sin ajustes en todas las instalaciones.
 
 ## Captura de pantalla
+## 🖥️ Vista previa
 
-Puedes añadir aquí una captura de tu escritorio cuando tengas el repositorio publicado.
+![Mi escritorio i3wm](screenshots/desktop.png)
 
 ## Contenido del repositorio
 
@@ -49,10 +50,9 @@ El instalador también intenta instalar utilidades como `git`, `feh` y herramien
 
 ### 1. Clonar el repositorio
 
-Sustituye `TU_USUARIO` por tu nombre de usuario de GitHub:
 
 ```bash
-git clone https://github.com/TU_USUARIO/i3-dotfiles.git
+git clone https://github.com/adrianpascualdev/i3-dotfiles.git
 cd i3-dotfiles
 ```
 
